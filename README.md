@@ -1,4 +1,4 @@
-# 📊 E-Commerce Analysis Dashboard (Power Excel)
+# 📊 E-Commerce Analysis Dashboard 
 
 ## 🔎 Project Overview
 This project showcases an **E-Commerce Analysis Dashboard** built using **Power BI Excel**.  
